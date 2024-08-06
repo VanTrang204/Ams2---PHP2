@@ -1,0 +1,12 @@
+{
+    "name": "admin/asm2-main",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Asm2Main\\": "src/"
+        }
+    },
+    "require": {
+        "eftec/bladeone": "^4.13",
+        "phroute/phroute": "^2.2"
+    }
+}
